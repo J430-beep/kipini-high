@@ -1,7 +1,7 @@
-# School Website
+# Kipini High School
 
 ## Overview
-This project is a responsive school website designed using HTML, CSS, and Bootstrap. It includes various sections such as navigation, content areas, a gallery, and a footer. The design ensures accessibility and responsiveness across different devices.
+This project is a responsive for Kipini High school website designed using HTML, CSS, and Bootstrap. It includes various sections such as navigation, content areas, a gallery, and a footer. The design ensures accessibility and responsiveness across different devices.
 
 ## Features
 - **Responsive Layout**: The website adapts to various screen sizes using media queries.
